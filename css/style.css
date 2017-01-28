@@ -1,0 +1,35 @@
+html,body{
+  width: 100%;
+  height: 100%;
+  background-color:  #f1f1f1;
+}
+
+
+.logo{
+  width: 40px ;
+  margin: 8px;
+}
+
+.slogan{
+  font-family: 'Indie Flower', cursive;
+  display: inline-block;
+  color: white;
+  border: 0px;
+  font-size: 15px;
+}
+
+.tamcaru img{
+  width: 100%;
+  height: 100%;
+}
+
+.desc{
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+}
+
+.class div img{
+  max-width: 300px;
+  padding: 5px;
+  margin-left: 10px;
+}
